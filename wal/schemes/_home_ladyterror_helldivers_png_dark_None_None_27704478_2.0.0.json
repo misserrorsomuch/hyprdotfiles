@@ -1,0 +1,28 @@
+{
+    "checksum": "344642cb3df27004085d3e597292a821",
+    "wallpaper": "/home/ladyterror/helldivers.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f0d0d",
+        "foreground": "#c7c2c2",
+        "cursor": "#c7c2c2"
+    },
+    "colors": {
+        "color0": "#1f0d0d",
+        "color1": "#394650",
+        "color2": "#3A5962",
+        "color3": "#4E4850",
+        "color4": "#5A5D67",
+        "color5": "#A87058",
+        "color6": "#647988",
+        "color7": "#c7c2c2",
+        "color8": "#715c5c",
+        "color9": "#394650",
+        "color10": "#3A5962",
+        "color11": "#4E4850",
+        "color12": "#5A5D67",
+        "color13": "#A87058",
+        "color14": "#647988",
+        "color15": "#c7c2c2"
+    }
+}

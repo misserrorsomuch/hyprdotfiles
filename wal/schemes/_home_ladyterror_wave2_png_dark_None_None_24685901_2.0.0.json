@@ -1,0 +1,28 @@
+{
+    "checksum": "cc547c9054a33097f07fbaac84ebc825",
+    "wallpaper": "/home/ladyterror/wave2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#15321b",
+        "foreground": "#c4cbc6",
+        "cursor": "#c4cbc6"
+    },
+    "colors": {
+        "color0": "#15321b",
+        "color1": "#4DC18A",
+        "color2": "#117D5F",
+        "color3": "#2A9B64",
+        "color4": "#1B1F97",
+        "color5": "#5504AF",
+        "color6": "#5F39B0",
+        "color7": "#c4cbc6",
+        "color8": "#647a69",
+        "color9": "#4DC18A",
+        "color10": "#117D5F",
+        "color11": "#2A9B64",
+        "color12": "#1B1F97",
+        "color13": "#5504AF",
+        "color14": "#5F39B0",
+        "color15": "#c4cbc6"
+    }
+}
