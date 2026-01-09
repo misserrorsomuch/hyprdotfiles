@@ -8,3 +8,6 @@ waybar
 sway-contrib  
 nemo  
 rofi  
+brightnessctl  
+playerctl
+hyprpolkitagent  
