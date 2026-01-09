@@ -9,5 +9,5 @@ sway-contrib
 nemo  
 rofi  
 brightnessctl  
-playerctl
+playerctl  
 hyprpolkitagent  
