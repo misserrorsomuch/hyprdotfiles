@@ -2,6 +2,8 @@
 hyprland  
 hyprpaper  
 hypridle  
+hyprlock  
+hyprpolkitagent  
 xdg-desktop-portal-hyprland  
 sddm  
 waybar  
@@ -10,4 +12,6 @@ nemo
 rofi  
 brightnessctl  
 playerctl  
-hyprpolkitagent  
+nwg-look  
+jetbrains nerd fonts mono  
+  
