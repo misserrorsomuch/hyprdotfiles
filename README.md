@@ -14,4 +14,4 @@ brightnessctl
 playerctl  
 nwg-look  
 jetbrains nerd fonts mono  
-  
+wlogout  
