@@ -1,0 +1,93 @@
+* {
+  border: none;
+  border-radius: 12px;
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  font-size: 13px;
+  min-height: 0;
+}
+
+window#waybar {
+  background: rgba(20, 20, 20, 0.85);
+  color: #eaeaea;
+  border-radius: 16px;
+}
+
+/* Modules */
+#workspaces,
+#clock,
+#battery,
+#network,
+#pulseaudio,
+#cpu,
+#memory,
+#tray {
+  background: rgba(40, 40, 40, 0.9);
+  margin: 6px 4px;
+  padding: 6px 6px;
+  border-radius: 16px;
+}
+
+/* Workspaces */
+#workspaces button {
+  padding: 0 8px;
+  margin: 0 3px;
+  color: #bbbbbb;
+}
+
+#workspaces button.active {
+  background: #89b4fa;
+  color: #111111;
+}
+
+#workspaces button:hover {
+  background: rgba(137, 180, 250, 0.4);
+}
+
+/* Clock highlight */
+#clock {
+  background: #1e1e2e;
+  color: #f5c2e7;
+  font-weight: bold;
+}
+
+/* Battery states */
+#battery.warning {
+  color: #f9e2af;
+}
+
+#battery.critical {
+  color: #f38ba8;
+}
+
+/* Network */
+#network.disconnected {
+  color: #f38ba8;
+}
+
+/* Audio */
+#pulseaudio.muted {
+  color: #f38ba8;
+}
+
+/* CPU */
+#cpu {
+  background: rgba(40, 40, 40, 0.9);
+  color: #bbbbbb;
+}
+
+/* RAM */
+#memory {
+  background: rgba(40, 40, 40, 0.9);
+  color: #bbbbbb;
+}
+
+/* Warnings */
+#cpu.warning,
+#memory.warning {
+  color: #f9e2af;
+}
+
+#cpu.critical,
+#memory.critical {
+  color: #f38ba8;
+}
